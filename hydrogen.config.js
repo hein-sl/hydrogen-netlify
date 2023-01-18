@@ -4,8 +4,8 @@ export default defineConfig({
   shopify: {
     defaultCountryCode: 'US',
     defaultLanguageCode: 'EN',
-    storeDomain: 'gibsern-dev-store.myshopify.com',
-    storefrontToken: 'f4492b4565d4df8079cb83eb39ed0b11',
+    storeDomain: 'yatilab.com',
+    storefrontToken: '54287a2df3181d2c9f0f9b264a42b13c',
     storefrontApiVersion: '2022-07',
   },
   session: CookieSessionStorage('__session', {
